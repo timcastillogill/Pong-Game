@@ -18,4 +18,4 @@ Down = 's'
 Up = Up Arrow
 Down = Down Arrow
 
-![Screenshot of the game][Screenshot 2021-02-08 at 18.21.49.png]
+![Screenshot of the game](https://github.com/timcastillogill/Pong-Game/blob/main/Game_Example_Picture.png?raw=true)
